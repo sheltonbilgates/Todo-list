@@ -40,7 +40,6 @@ function renderTodos() {
     } else {
       label.textContent = todo.text;
     }
-
     listItem.appendChild(checkbox);
     listItem.appendChild(label);
 

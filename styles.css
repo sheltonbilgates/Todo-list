@@ -10,3 +10,12 @@ header {
 .button {
   align-content: center;
 }
+.form-check-label{
+  padding: 0 20px;
+}
+.list-group{
+  padding: 10px 0;
+  outline: 0;
+  border: 0;
+}
+
